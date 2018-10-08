@@ -18,7 +18,7 @@ Eerst wou ik in Unity werken maar omdat ik al vaak daarin werk ben ik verder gaa
 ## Leerdoelen
 - Beter begrijpen hoe je C++ libraries build en gebruikt
 - Collision en physics gebruiken met een physics engine
-- etc. etc.
+- Beter begrijpen hoe SFML sprites tekent
 
 ## Planning 
 Je hebt grofweg 2 weken, hoe deel je deze twee weken in. Wat plan je wanneer om precies te doen?
